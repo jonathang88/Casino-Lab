@@ -30,7 +30,7 @@ Una máquina Linux que simula un sistema de casino con múltiples vulnerabilidad
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/tu-usuario/casino-lab.git
+git clone https://github.com/jonathang88/casino-lab.git
 cd casino-lab
 
 # Ver la metodología completa
