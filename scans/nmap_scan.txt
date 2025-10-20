@@ -1,0 +1,5 @@
+# Nmap scan (sanitized)
+# Host: [REDACTED]
+# Ports found (example):
+22/tcp open  ssh     OpenSSH
+80/tcp open  http    Apache httpd

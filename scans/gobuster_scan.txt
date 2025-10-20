@@ -1,0 +1,8 @@
+# Gobuster sample output (sanitized)
+/imgs (Status: 301)
+/index.php (Status: 200)
+/js (Status: 301)
+/robots.txt (Status: 200)
+/server-status (Status: 403)
+/styles (Status: 301)
+/casino (Status: 301)
